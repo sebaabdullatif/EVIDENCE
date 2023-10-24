@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+p {
+  font-family: monospace;
+  font-size: larger;
+  color: greenyellow;
+}
+
+img {
+  size: -50%;
+  padding-left: 10%;
+}
